@@ -6,21 +6,17 @@ An enthusiastic wannabe Junior Developer with a passion for learning new technol
 
 #### Software Development
 
-- I have immersed myself in test & behaviour driven development at Makers Academy and enjoy writing clean, meaningful tests as demonstrated in my Thermostat project (Javascript, Node, jQuery, Jasmine). I also used this project as a way of experimenting with APIs.
-
+- I have immersed myself in test & behaviour driven development at Makers Academy and enjoy writing clean, meaningful tests as demonstrated in my Thermostat project (Javascript, Node, jQuery, Jasmine). I also used this project as a way of experimenting with APIs.<br>
 [View Thermostat on Github](https://github.com/natstar93/Thermostat-day3/blob/master/spec/ThermostatSpec.js)
 
 
-- I have found working with relational databases very interesting. I recently produced a clone of Instagram using Ruby on Rails, ActiveRecord, PostreSQL, Rspec and Capybara. The biggest challenges of this project were limiting 'likes' to one per user per photo and stubbing image uploads.
-
+- I have found working with relational databases very interesting. I recently produced a clone of Instagram using Ruby on Rails, ActiveRecord, PostreSQL, Rspec and Capybara. The biggest challenges of this project were limiting 'likes' to one per user per photo and stubbing image uploads.<br>
 [View Natstagram on Github](https://github.com/natstar93/instagram-challenge)
 
-- I'm interested in development on different platforms and trying out new technologies. During my final project I used Ionic to make a London 'ispy' game for tourists. This involved Cordova camera plugin and UX considerations.
-
+- I'm interested in development on different platforms and trying out new technologies. During my final project I used Ionic to make a London 'ispy' game for tourists. This involved Cordova camera plugin and UX considerations.<br>
 [View iSpy on Github](https://github.com/natstar93/ispy-game)
 
-- In addition to learning new technologies, I revel in the challenge of logic problems. I was happy to learn that in the software development world these problems can often be neatly test driven. I created a bowling scorecard in Javascript, jQuery, HTML & CSS. I uses Jasmine for testing and is hosted on Heroku.
-
+- In addition to learning new technologies, I revel in the challenge of logic problems. I was happy to learn that in the software development world these problems can often be neatly test driven. I created a bowling scorecard in Javascript, jQuery, HTML & CSS. I uses Jasmine for testing and is hosted on Heroku.<br>
 [View Bowling Challenge on Github](https://github.com/natstar93/bowling-challenge)
 
 #### Teamwork
@@ -29,12 +25,12 @@ I have learnt to work well with a range of personalities by pairing with over 20
 
 #### Design 
 
-I have a keen eye for design. I designed and built a suite of mobile-first email templates for Sainsbury's using Photoshop, HTML & CSS. These were subjected to a rigorous brand clinic review and accepted by the client during their rebrand 
+I have a keen eye for design. I designed and built a suite of mobile-first email templates for Sainsbury's using Photoshop, HTML & CSS. These were subjected to a rigorous brand clinic review and accepted by the client for all Nectar Sainsbury's FMCG emails going forward.<br>
 [View Portfolio](http://www.natalie-akam.com/portfolio.html)
 
 #### Copywriting & Blogging
 
-I was often relied upon to amend and create copy for Nectar, and started regular copywriting workshops to teach the skill to others. I extended my copywriting skills to blogging by diarising my Makers Academy journey.
+I was often relied upon to amend and create copy for Nectar, and started regular copywriting workshops to teach the skill to others. I extended my copywriting skills to blogging by diarising my Makers Academy journey.<br>
 [View my Blog](http://natstar93.github.io)
 
 #### Disrupting
