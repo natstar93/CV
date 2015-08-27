@@ -13,10 +13,10 @@ An enthusiastic wannabe Junior Developer with a passion for learning new technol
 - I have found working with relational databases very interesting. I recently produced a clone of Instagram using Ruby on Rails, ActiveRecord, PostreSQL, Rspec and Capybara. The biggest challenges of this project were limiting 'likes' to one per user per photo and stubbing image uploads.<br>
 [View Natstagram on Github](https://github.com/natstar93/instagram-challenge)
 
-- I'm interested in development on different platforms and trying out new technologies. During my final project I used Ionic to make a London 'ispy' game for tourists. This involved Cordova camera plugin and UX considerations.<br>
+- I'm interested in development on different platforms and trying out new technologies. During my final project I used Ionic to make a London 'i-spy' game for tourists. This involved Cordova camera plugin and UX considerations.<br>
 [View iSpy on Github](https://github.com/natstar93/ispy-game)
 
-- In addition to learning new technologies, I revel in the challenge of logic problems. I was happy to learn that in the software development world these problems can often be neatly test driven. I created a bowling scorecard in Javascript, jQuery, HTML & CSS. I uses Jasmine for testing and is hosted on Heroku.<br>
+- In addition to learning new technologies, I revel in the challenge of logic problems. I was happy to learn that in the software development world these problems can often be neatly test driven. I created a bowling scorecard in Javascript, jQuery, HTML & CSS. I used Jasmine for testing and is hosted on Heroku.<br>
 [View Bowling Challenge on Github](https://github.com/natstar93/bowling-challenge)
 
 #### Teamwork
