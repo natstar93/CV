@@ -58,13 +58,13 @@ BSc Chemistry
 
 #### Short Courses
 
-**Introduction to SQL (February 2015)**<br>
+**Introduction to SQL** (February 2015)<br>
 Lumia Development
 
-**Digital Analytics Fundamentals (August 2014)**<br>
+**Digital Analytics Fundamentals** (August 2014)<br>
 Google
 
-**CSS for Web Design (May 2014)**<br>
+**CSS for Web Design** (May 2014)<br>
 Media Training
 
 
