@@ -58,21 +58,21 @@ BSc Chemistry
 
 #### Short Courses
 
-*Introduction to SQL (February 2015)*<br>
+**Introduction to SQL (February 2015)**<br>
 Lumia Development
 
-*Digital Analytics Fundamentals (August 2014)*<br>
+**Digital Analytics Fundamentals (August 2014)**<br>
 Google
 
-*CSS for Web Design (May 2014)*<br>
+**CSS for Web Design (May 2014)**<br>
 Media Training
 
 
 ## Experience
 
-**Aimia** (June 2010 - May 2015)
+**Aimia** (June 2010 - May 2015)<br>
 *Senior eCommunications Executive*<br>
 *eCommunications Executive*
 
-**Totaljobs Group** (November 2007 - June 2010)
+**Totaljobs Group** (November 2007 - June 2010)<br>
 *Production Assistant*  
