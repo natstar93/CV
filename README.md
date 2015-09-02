@@ -50,20 +50,23 @@ A highly selective 12 week software development bootcamp
 - Agile, MVP development using Kanban
 - Final project involved self-teaching and developing with Ionic & Cordova
 
-#### Introduction to SQL (February 2015)
-Lumia Development
-
-#### Digital Analytics Fundamentals (August 2014)
-Google
-
-#### CSS for Web Design (May 2014)
-Media Training
-
 #### Nottingham Trent University (2006 - 2007)
 MSc Real-Time Computing Applications
 
 #### University of Nottingham (2003 - 2006)
 BSc Chemistry
+
+#### Short Courses
+
+*Introduction to SQL (February 2015)*<br>
+Lumia Development
+
+*Digital Analytics Fundamentals (August 2014)*<br>
+Google
+
+*CSS for Web Design (May 2014)*<br>
+Media Training
+
 
 ## Experience
 
