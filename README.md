@@ -6,9 +6,11 @@ An enthusiastic wannabe Junior Developer with a passion for learning new technol
 
 #### Software Development
 
+- I have enjoyed using frameworks such as AngularJS to produce modular, interactive applications.<br>
+[View Clothing Shop on Github](https://github.com/natstar93/clothing_shop)
+
 - I have immersed myself in test & behaviour driven development at Makers Academy and enjoy writing clean, meaningful tests as demonstrated in my Thermostat project (Javascript, Node, jQuery, Jasmine). I also used this project as a way of experimenting with APIs.<br>
 [View Thermostat on Github](https://github.com/natstar93/Thermostat-day3/blob/master/spec/ThermostatSpec.js)
-
 
 - I have found working with relational databases very interesting. I recently produced a clone of Instagram using Ruby on Rails, ActiveRecord, PostreSQL, Rspec and Capybara. The biggest challenges of this project were limiting 'likes' to one per user per photo and stubbing image uploads.<br>
 [View Natstagram on Github](https://github.com/natstar93/instagram-challenge)
@@ -69,6 +71,10 @@ Media Training
 
 
 ## Experience
+
+**Makers Academy** (September 2015 - Present)<br>
+*Alumni Helper*<br>
+Conducting code reviews and teaching juniors to debug issues
 
 **Aimia** (June 2010 - May 2015)<br>
 *Senior eCommunications Executive*<br>
