@@ -1,6 +1,6 @@
 ## Natalie Akam
 
-An enthusiastic wannabe Junior Developer with a passion for learning new technologies. I spent 6 months teaching myself Javascript, jQuery & Angular before deciding to join Makers Academy in search of the path to best practice and being the best software developer I could. I'm now looking for a full-stack role that allows me to work in the agile, test driven way I now know and love. My ideal job would involve working in a fast-paced environment that encourages learning and development. I am currently teaching myself about MEAN stack applications and enjoy Samba dancing in my spare time.
+An enthusiastic wannabe Junior Developer with a passion for learning new technologies. I spent 6 months teaching myself Javascript, jQuery & Angular before deciding to join Makers Academy in search of the path to best practice and being the best software developer I could. I'm now looking for a full-stack role that allows me to work in the agile, test driven way I now know and love. My ideal job would involve working in a fast-paced environment that encourages learning and development. I am currently teaching myself about MEAN stack applications and React.js, and I enjoy Samba dancing in my spare time.
 
 ## Skills
 
