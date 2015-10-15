@@ -18,7 +18,7 @@ An enthusiastic wannabe Junior Developer with a passion for learning new technol
 - I'm interested in development on different platforms and trying out new technologies. During my final project I used Ionic to make a London 'i-spy' game for tourists. This involved using the Cordova camera plugin and required many UX considerations.<br>
 [View iSpy on Github](https://github.com/natstar93/ispy-game)
 
-- In addition to learning new technologies, I enjoy the challenge of logic problems. I was happy to learn that in the software development world these problems can often be neatly test driven. I created a bowling scorecard in Javascript, jQuery, HTML & CSS. I used Jasmine for testing and is hosted on Heroku.<br>
+- In addition to learning new technologies, I enjoy the challenge of logic problems. I was happy to learn that in the software development world these problems can often be neatly test driven. I created a bowling scorecard in Javascript, jQuery, HTML & CSS. I used Jasmine for testing and the app is hosted on Heroku.<br>
 [View Bowling Challenge on Github](https://github.com/natstar93/bowling-challenge)
 
 #### Teamwork
