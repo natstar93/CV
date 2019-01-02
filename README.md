@@ -1,4 +1,4 @@
-## Natalie Akam
+# Natalie Akam
 
 ## Development Skills
 
@@ -7,8 +7,9 @@
 
 ## Experience
 
-**Trainline** (December 2015 - Present)<br>
-*Developer*<br>
+### Trainline (December 2015 - Present)
+
+**Developer**
 - Working mainly on a greenfield React project 
 - Pairing with other team members in person and remotely with a team in Porto
 - Handling features end-to-end, from planning & estimating through to Production deployment & monitoring (New Relic, Kibana) 
@@ -17,13 +18,14 @@
 - Organising and presenting at the yearly Trainline Tech Summit 
 - Coaching/mentoring
 
-**Makers Academy** (September 2015 - November 2015)<br>
-*Alumni Helper*<br>
-Conducting code reviews and teaching juniors to debug issues
+### Makers Academy (September 2015 - November 2015)
+
+**Alumni Helper**
+- Conducting code reviews and teaching juniors to debug issues
 
 ## Education
 
-#### Makers Academy (June 2015 - August 2015)
+### Makers Academy (June 2015 - August 2015)
 
 A highly selective 12 week software development bootcamp
 
@@ -33,13 +35,14 @@ A highly selective 12 week software development bootcamp
 - Agile, MVP development using Kanban
 - Final project involved self-teaching and developing with Ionic & Cordova
 
-#### Nottingham Trent University (2006 - 2007)
+### Nottingham Trent University (2006 - 2007)
 MSc Real-Time Computing Applications
 
-#### University of Nottingham (2003 - 2006)
+### University of Nottingham (2003 - 2006)
 BSc Chemistry
 
-#### Short Courses
+
+### Short Courses
 
 **C# Training Course** (February 2017)<br>
 Training Dragon
