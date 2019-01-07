@@ -1,22 +1,26 @@
 # Natalie Akam
 
+Full stack Javascript developer who loves delivering brilliant features and writing clean, well tested code. I graduated from one of London's top development bootcamps in 2015 and have so far enjoyed a successful and varied career at Trainline working on many aspects of web development. I'm looking for a role that builds on my previous experience and allows me to work in an Agile environment with people who care about delivering good quality software projects.
+
 ## Development Skills
 
 - React, Redux, Node, ES6, Flow, Typescript, LESS, CSS, CSS in JS, Webpack
-- Jest, Enzyme, Mocha
+- Jest, Enzyme, Mocha, Chai, Webdriverio, Puppeteer
 
 ## Experience
 
 ### Trainline (December 2015 - Present)
 
 **Developer**
-- Working mainly on a greenfield React project 
-- Pairing with other team members in person and remotely with a team in Porto
-- Handling features end-to-end, from planning & estimating through to Production deployment & monitoring (New Relic, Kibana) 
-- Committed to writing robust unit tests and improving e2e test automation 
-- Responsible for out of hours support 
-- Organising and presenting at the yearly Trainline Tech Summit 
-- Coaching/mentoring
+- Building the My Account and My Bookings applications from scratch and contributing to a new stateful login & customer migration form. Delivering responsive UI which is compatible with the required browsers using polyfills and transpiling with babel. Fetching data from APIs and transforming data from our BFF (Backend for Frontend) layer. Creating internal APIs and working with Redux, epics and redux form. 
+- Delivering features end to end, from planning and estimating through to Production deployment.
+- Working with New Relic and Kibana to set up and improve application monitoring and error logging. Responsible for out of hours support.
+- Pairing with team members of all levels in London and remotely with developers in Porto.
+- Ensuring good code coverage and writing meaningful unit tests. Writing automated acceptance tests and configuring them to run in BrowserStack and upon TeamCity deployments.
+- Mentoring a junior backend developer which has involved holding regular catch ups, pairing on katas and teaching TDD. Helping out at Code First Girls and Codebar.
+- Improving our Agile practices, temporarily taking on the role of scrum master 
+- Organising and presenting at the yearly Trainline Tech Summit. Presenting at meetups and at product demos.
+
 
 ### Makers Academy (September 2015 - November 2015)
 
