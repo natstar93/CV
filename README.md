@@ -13,7 +13,7 @@ Full stack Javascript developer who loves delivering brilliant features and writ
 
 ### Trainline (December 2015 - Present)
 
-####Developer
+#### Developer
 - Building the My Account and My Bookings applications from scratch and contributing to a new stateful login & customer migration form. Delivering responsive UI which is compatible with the required browsers using polyfills and transpiling with Babel. Fetching data from APIs and transforming data from our BFF (Backend for Frontend) layer. Creating internal APIs and working with Redux, Epics and Redux Form. 
 - Delivering features end to end, from planning and estimating through to Production deployment.
 - Working with New Relic and Kibana to set up and improve application monitoring and error logging. Responsible for out of hours support.
@@ -26,7 +26,7 @@ Full stack Javascript developer who loves delivering brilliant features and writ
 
 ### Makers Academy (September 2015 - November 2015)
 
-####Alumni Helper
+#### Alumni Helper
 - Conducting code reviews and teaching juniors to debug issues
 
 ## Education
