@@ -1,6 +1,6 @@
 # Natalie Akam
 
-natalie.akam@gmail.com | https://github.com/natstar93
+https://github.com/natstar93
 
 Full stack Javascript developer who loves delivering brilliant features and writing clean, well tested code. I graduated from one of London's top development bootcamps in 2015 and have so far enjoyed a successful and varied career at Trainline working on many aspects of web development. I'm looking for a role that builds on my previous experience and allows me to work in an Agile environment with people who care about delivering good quality software projects.
 
