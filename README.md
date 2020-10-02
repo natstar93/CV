@@ -2,27 +2,66 @@
 
 https://github.com/natstar93
 
-Full stack Javascript developer who loves delivering brilliant features and writing clean, well tested code. I graduated from one of London's top development bootcamps in 2015 and have so far enjoyed a successful and varied career at Trainline working on many aspects of web development. I'm looking for a role that builds on my previous experience and allows me to work in an Agile environment with people who care about delivering good quality software projects.
+I am a front end developer with team leadership skills and 5 years' experience of developing and delivering projects for a high traffic website. I love shipping new features to users and improving the health of the codebase by addressing tech debt and making decisions around any new tech and libraries used. I have been heavily involved in all aspects of the agile development lifecycle and have experience with infrastructure. 
 
-## Development Skills
+I am looking for a role that focusses on delivery and maintenance of high quality software projects rather than a team management position.
 
-- React, Redux, Node, ES6, Flow, Typescript, LESS, CSS, CSS in JS, Webpack
-- Jest, Enzyme, Mocha, Chai, Webdriverio, Puppeteer
+## Core Skills
+
+- Web development with React, Redux, Node, ES6, Flow, Typescript, LESS, CSS, CSS in JS, Webpack
+- Writing meaningful unit, integration and E2E tests using libraries such as Jest, React Testing Library, Enzyme, Mocha, Chai, Webdriverio and Puppeteer
+- Understanding application health and key metrics by implementing Kibana logging, monitoring and dashboards in New Relic One 
+- Responsibility for out of hours infrastructure support and fixing production issues
+- Strong mentoring and leadership skills, able to build trust with colleagues across the business
+- Pair programming and agile project development
 
 ## Experience
 
 ### Trainline (December 2015 - Present)
 
-#### Developer
-- Building the My Account and My Bookings applications from scratch and contributing to a new stateful login & customer migration form. Delivering responsive UI which is compatible with the required browsers using polyfills and transpiling with Babel. Fetching data from APIs and transforming data from our BFF (Backend for Frontend) layer. Creating internal APIs and working with Redux, Epics and Redux Form. 
-- Delivering features end to end, from planning and estimating through to Production deployment.
-- Working with New Relic and Kibana to set up and improve application monitoring and error logging. Responsible for out of hours support.
-- Pairing with team members of all levels in London and remotely with developers in Porto.
-- Ensuring good code coverage and writing meaningful unit tests. Writing automated acceptance tests and configuring them to run in BrowserStack and upon TeamCity deployments.
-- Mentoring a junior backend developer which has involved holding regular catch ups, pairing on katas and teaching TDD.
-- Improving our Agile practices, temporarily taking on the role of scrum master.
-- Organising and presenting at the yearly Trainline Tech Summit. Presenting at meetups and at product demos.
+#### Interim Engineering Team Lead (May 2020 – Present)
+- Managing a full stack team of 8 developers remotely 
+- Working with the Product Owner to plan development work, ensure prioritisation of tech debt and set achievable goals for the team
+
+Achievements
+- I oversaw my team's support for the french site's migration in which we were responsible for migration of user accounts upon login
+- Planned and managed an urgent project as part of a cross team intiative to allow users to amend reservations, in response to new restrictions on some rail services
+
+#### Senior Web Engineer (Apr 2020 – Present)
+- Taking the lead on multiple deliverables requiring collaboration within the team and with other teams 
+- Identifying improvements to testing 
+- Researching and implementing new libraries and new tech (React hooks, React Testing Library)
+- Running front end learning sessions and pairing on TDD with more junior team members
+
+Achievements
+- Helped an API focussed team design new endpoints suitable for our use cases and rewrote parts of the integration test suite to mock the new responses
+- Took the lead on both a delay compensation project and a redesign of the site's bookings view, both of which have received very positive feedback and were delivered in time for the site migration
+
+
+#### Developer (Oct 2017 – Mar 2020)
+- Building greenfield React applications and contributing to a new stateful login & customer migration form. 
+- Fetching data from external APIs using Node and exposing endpoints to the client side. 
+- Delivering features end to end, from planning and estimating through to production deployment.
 - Helping organise meetups at Trainline and coaching at Code First Girls and Codebar.
+
+Achievements
+* I won an award as part of a cross team cluster that delivered the eticketing project
+* Launched a new and fully tested application with auth, logging and monitoring 
+* I helped organise and presented at the annual Trainline Tech Summit
+
+#### Associate Developer (Jun 2016 – Sep 2017)
+
+* Feature development with React, Node and CSS
+
+Achievements
+* Implemented Sitespect and delivered the first A/B feature tests allowing the team to run and measure UI experiements
+
+#### Agile QA Developer (Dec 2015 – May 2016)
+* Writing automated acceptance tests using Webdriverio, Node, Mocha & Chai and configuring them to run in BrowserStack and upon TeamCity deployments
+* Improving unit test code coverage for existing applications
+
+Achievements
+* I delivered an E2E testing framework with support from a senior developer
 
 ### Makers Academy (September 2015 - November 2015)
 
