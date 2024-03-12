@@ -22,34 +22,35 @@ I am looking for a role that focusses on delivery and maintenance of high qualit
 
 #### Senior Web Engineer (Apr 2020 – March 2023)
 - Taking the lead on multiple deliverables requiring collaboration within the team and with other teams 
-- Identifying improvements to testing 
 - Researching and implementing new libraries and new tech (React hooks, React Testing Library)
 - Running front end learning sessions and pairing on TDD with more junior team members
+- Making improvements to tech stack and identifying improvements to testing 
 
 Achievements
-- Led two teams to implement white labelling across 4 frontend applications, finding configuration solutions to heavily customised projects
-- Took the lead on both a delay compensation project and a redesign of the site's bookings view, both of which have received very positive feedback and were delivered in time for the site migration
-- Helped an API focussed team design new endpoints suitable for our use cases and rewrote parts of the integration test suite to mock the new responses
+- Successfully led two teams in implementing white labeling across four front-end applications, addressing configuration challenges in heavily customized projects
+- Lead developer of a delay compensation project and a redesign of the site's bookings view, both of which received highly positive feedback and were completed in time for the site migration
+- Helped an API focussed team design new endpoints suitable for our use cases and rewrote parts of the integration test suite to mock the new responses. Rolled out the migration successfully
+- Refactored a live application to Typescript, introduced widespread use of Context and implemented AWS autoscaling
 
 #### Interim Engineering Team Lead (May 2020 – Sep 2020)
 - Managing a full stack team of 8 developers remotely 
 - Working with the Product Owner to plan development work, ensure prioritisation of tech debt and set achievable goals for the team
 
 Achievements
-- Overseeing my team's support for the french site's migration in which we were responsible for migration of user accounts upon login
-- Planned and managed an urgent project as part of a cross team intiative to allow users to amend reservations, in response to new restrictions on some rail services
-- Supported team members with empathy by listening and responding to their doubts and difficulties
+- Supervised my team's support for the migration of the French site. We were responsible for migration of user accounts upon login
+- Planned and managed an urgent project as part of a cross-team intiative to allow users to amend reservations, in response to new restrictions on some rail services
+- Provided empathetic support to team members by actively listening and addressing their concerns and challenges
 
 #### Developer (Oct 2017 – Mar 2020)
-- Building greenfield React applications and contributing to a new stateful login & customer migration form. 
-- Fetching data from external APIs using Node and exposing endpoints to the client side. 
-- Delivering features end to end, from planning and estimating through to production deployment.
-- Helping organise meetups at Trainline and coaching at Code First Girls and Codebar.
+- Building greenfield React applications and contributing to a new stateful login & customer migration form
+- Fetching data from external APIs using Node and exposing endpoints to the client side
+- Delivering features end to end, from planning and estimating through to production deploymen
+- Helping organise meetups at Trainline and coaching at Code First Girls and Codebar
 
 Achievements
-* I won an award as part of a cross team cluster that delivered the eticketing project
+* Won an award as part of a cross-team cluster that delivered the eticketing project
 * Launched a new and fully tested application with auth, logging and monitoring 
-* I helped organise and presented at the annual Trainline Tech Summit
+* Helped organise and presented at the annual Trainline Tech Summit
 
 #### Associate Developer (Jun 2016 – Sep 2017)
 
