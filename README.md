@@ -2,9 +2,9 @@
 
 https://github.com/natstar93
 
-I am a front end developer with leadership skills and over 7 years' experience of developing and delivering projects for a high traffic website. I love shipping new features to users and improving the health of the codebase by addressing tech debt and making decisions around any new tech and libraries used. I have been heavily involved in all aspects of the agile development lifecycle from initial product conversations to deployment and monitoring. 
+I am a front end developer with leadership skills and over 7 years' experience developing and delivering projects for high-traffic websites. I love shipping new features to users and improving the health of the codebase by addressing technical debt and making informed decisions on new technologies and libraries. I have been heavily involved in all aspects of the agile development lifecycle from initial product conversations to deployment and monitoring. 
 
-I am looking for a role that focusses on delivery and maintenance of high quality software projects rather than a team management position.
+I am seeking a role that focuses on delivering and maintaining high-quality software projects, rather than a position focused on team management.
 
 ## Core Skills
 
