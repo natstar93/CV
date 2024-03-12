@@ -44,7 +44,7 @@ Achievements
 #### Developer (Oct 2017 – Mar 2020)
 - Building greenfield React applications and contributing to a new stateful login & customer migration form
 - Fetching data from external APIs using Node and exposing endpoints to the client side
-- Delivering features end to end, from planning and estimating through to production deploymen
+- Delivering features end to end, from planning and estimating through to production deployment
 - Helping organise meetups at Trainline and coaching at Code First Girls and Codebar
 
 Achievements
