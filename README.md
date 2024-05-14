@@ -18,7 +18,7 @@ I am seeking a role that focuses on delivering and maintaining high-quality soft
 
 ## Experience
 
-### Trainline (December 2015 - Present)
+### Trainline (December 2015 - March 2023)
 
 #### Senior Web Engineer (Apr 2020 – March 2023)
 - Taking the lead on multiple deliverables requiring collaboration within the team and with other teams 
