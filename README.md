@@ -4,11 +4,13 @@ https://github.com/natstar93
 
 I am a front end developer with leadership skills and over 7 years' experience developing and delivering projects for high-traffic websites. I love shipping new features to users and improving the health of the codebase by addressing technical debt and making informed decisions on new technologies and libraries. I have been heavily involved in all aspects of the agile development lifecycle from initial product conversations to deployment and monitoring. 
 
+I have recently been working on personal projects using Solidity, Ethers, Vite and NextJS.
+
 I am seeking a role that focuses on delivering and maintaining high-quality software projects, rather than a position focused on team management.
 
 ## Core Skills
 
-- Web development with React, Redux, Node, Typescript, LESS, CSS, CSS in JS, Webpack
+- Web development with React, Redux, Node, Typescript, CSS, CSS in JS, Webpack
 - Writing meaningful unit, integration and E2E tests using libraries such as Jest, React Testing Library, Enzyme, Mocha, Chai, Webdriverio and Puppeteer
 - Understanding application health and key metrics by implementing Kibana logging, monitoring and dashboards in New Relic One 
 - AWS pipeline creation and maintenance and autoscaling setup
