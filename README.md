@@ -2,23 +2,31 @@
 
 https://github.com/natstar93
 
-I am a front end developer with leadership skills and over 7 years' experience developing and delivering projects for high-traffic websites. I love shipping new features to users and improving the health of the codebase by addressing technical debt and making informed decisions on new technologies and libraries. I have been heavily involved in all aspects of the agile development lifecycle from initial product conversations to deployment and monitoring. 
-
-I have recently been working on personal projects using Solidity, Ethers, Vite and NextJS.
-
-I am seeking a role that focuses on delivering and maintaining high-quality software projects, rather than a position focused on team management.
+I am a Senior Software Engineer with leadership skills and a decade of experience delivering high-traffic, scalable web apps for an international audience. With a strong foundation in frontend technologies like React, TypeScript, and Remix.js, I’m passionate about shipping impactful features, advocating for maintainable, high-quality codebases and driving technical solutions. I enjoy mentoring junior/mid-level engineers and fostering a collaborative team environment; I'm always happy to wear a BA/QA hat for the day depending on the needs of the team. I hold my teams to high standards with regards to quality using tools like RTL and Playwright to ensure robust and inclusive solutions. I’ve been involved in every stage of the agile development lifecycle, from product planning and architecture to deployment and continuous monitoring.
 
 ## Core Skills
 
-- Web development with React, Redux, Node, Typescript, CSS, CSS in JS, Webpack
-- Writing meaningful unit, integration and E2E tests using libraries such as Jest, React Testing Library, Enzyme, Mocha, Chai, Webdriverio and Puppeteer
-- Understanding application health and key metrics by implementing Kibana logging, monitoring and dashboards in New Relic One 
-- AWS pipeline creation and maintenance and autoscaling setup
+- Web development with React, Node, Typescript, CSS, CSS in JS, Tailwind & .NET
+- Writing meaningful unit, integration and E2E tests using libraries such as Playwright, Vitest, Jest & React Testing Library
+- Understanding application health and key metrics by implementing logging, monitoring and dashboards
+- Setting up AWS autoscaling, S3 buckets, IAM & roles
 - Strong mentoring and leadership skills, able to build trust with colleagues across the business
 - Pair programming and agile project development
 - Problem solving mentality and positive attitude
 
 ## Experience
+
+### ECA International (June 2024 - Present)
+
+#### Senior Web Engineer (June 2024 - Present)
+- Working across greenfield React applications with RemixJS, Tailwind & Typescript and contributing to .NET and Node APIs
+- Guiding front-end architectural decisions and proposing solutions to complex problems
+- Working under pressure ahead of tight deadlines and supporting teammates to be productive in less-than-ideal conditions
+
+Achievements
+- Leveraged my extensive experience with frontend design patterns, testing strategies, i18n, and a11y to help the other engineers deliver a higher quality product
+- Collaborated with CTO and Product stakeholders through a turbulent period of leadership change and tech debt, pushing for long-term engineering improvements
+- Identified significant flaws in the remote agency's infrastructure setup ahead of a high-stakes client conference and worked with the agency team to make critical updates ahead of client demos
 
 ### Trainline (December 2015 - March 2023)
 
@@ -79,8 +87,7 @@ Achievements
 
 A highly selective 12 week software development bootcamp
 
-- Pair programming
-- TDD, BDD using testing frameworks Rspec, Capybara, Jasmine, Karma & Protractor
+- Pair programming, TDD & BDD
 - OOP and software design using SOLID principles
 - Agile, MVP development using Kanban
 - Final project involved self-teaching and developing with Ionic & Cordova
@@ -99,12 +106,6 @@ Training Dragon
 
 **Introduction to SQL** (February 2015)<br>
 Lumia Development
-
-**Digital Analytics Fundamentals** (August 2014)<br>
-Google
-
-**CSS for Web Design** (May 2014)<br>
-Media Training
 
 ## Other Work Experience
 
