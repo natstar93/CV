@@ -2,14 +2,14 @@
 
 https://github.com/natstar93
 
-I am a Senior Software Engineer with leadership skills and a decade of experience delivering high-traffic, scalable web apps for an international audience. With a strong foundation in frontend technologies like React, TypeScript, and Remix.js, I’m passionate about shipping impactful features, advocating for maintainable, high-quality codebases and driving technical solutions. I enjoy mentoring junior/mid-level engineers and fostering a collaborative team environment; I'm always happy to wear a BA/QA hat for the day depending on the needs of the team. I hold my teams to high standards with regards to quality using tools like RTL and Playwright to ensure robust and inclusive solutions. I’ve been involved in every stage of the agile development lifecycle, from product planning and architecture to deployment and continuous monitoring.
+I am a Senior Software Engineer with leadership skills and 10 years' experience delivering high-traffic, scalable web apps for international audiences. I’m passionate about shipping impactful features and driving technical solutions. I enjoy mentoring junior and mid-level engineers and fostering a collaborative team environment. I hold my teams to high standards with regards to quality, a11y and testing.
 
 ## Core Skills
 
-- Web development with React, Node, Typescript, CSS, CSS in JS, Tailwind & .NET
+- Web development with React, Node, TypeScript, CSS, CSS in JS, Tailwind & .NET
 - Writing meaningful unit, integration and E2E tests using libraries such as Playwright, Vitest, Jest & React Testing Library
 - Understanding application health and key metrics by implementing logging, monitoring and dashboards
-- Setting up AWS autoscaling, S3 buckets, IAM & roles
+- Experience with cloud infrastructure setup, including autoscaling, storage solutions, and access control
 - Strong mentoring and leadership skills, able to build trust with colleagues across the business
 - Pair programming and agile project development
 - Problem solving mentality and positive attitude
@@ -19,13 +19,13 @@ I am a Senior Software Engineer with leadership skills and a decade of experienc
 ### ECA International (June 2024 - Present)
 
 #### Senior Web Engineer (June 2024 - Present)
-- Working across greenfield React applications with RemixJS, Tailwind & Typescript and contributing to .NET and Node APIs
+- Working across greenfield React applications with RemixJS, Tailwind & TypeScript and contributing to .NET and Node.js APIs
 - Guiding front-end architectural decisions and proposing solutions to complex problems
 - Working under pressure ahead of tight deadlines and supporting teammates to be productive in less-than-ideal conditions
 
 Achievements
-- Leveraged my extensive experience with frontend design patterns, testing strategies, i18n, and a11y to help the other engineers deliver a higher quality product
-- Collaborated with CTO and Product stakeholders through a turbulent period of leadership change and tech debt, pushing for long-term engineering improvements
+- Leveraged my extensive experience with front-end design patterns, testing strategies, i18n, and a11y to help other engineers deliver a higher quality product
+- Collaborated with CTO and Product stakeholders during a turbulent period of leadership change and tech debt, pushing for long-term engineering improvements
 - Identified significant flaws in the remote agency's infrastructure setup ahead of a high-stakes client conference and worked with the agency team to make critical updates ahead of client demos
 
 ### Trainline (December 2015 - March 2023)
@@ -33,22 +33,22 @@ Achievements
 #### Senior Web Engineer (Apr 2020 – March 2023)
 - Taking the lead on multiple deliverables requiring collaboration within the team and with other teams 
 - Researching and implementing new libraries and new tech (React hooks, React Testing Library)
-- Running front end learning sessions and pairing on TDD with more junior team members
+- Running front-end learning sessions and pairing on TDD with more junior team members
 - Making improvements to tech stack and identifying improvements to testing 
 
 Achievements
 - Successfully led two teams in implementing white labeling across four front-end applications, addressing configuration challenges in heavily customized projects
 - Lead developer of a delay compensation project and a redesign of the site's bookings view, both of which received highly positive feedback and were completed in time for the site migration
-- Helped an API focussed team design new endpoints suitable for our use cases and rewrote parts of the integration test suite to mock the new responses. Rolled out the migration successfully
-- Refactored a live application to Typescript, introduced widespread use of Context and implemented AWS autoscaling
+- Helped an API-focused team design new endpoints suitable for our use cases and rewrote parts of the integration test suite to mock the new responses. Rolled out the migration successfully
+- Refactored a live application to TypeScript, introduced widespread use of Context and implemented AWS autoscaling
 
 #### Interim Engineering Team Lead (May 2020 – Sep 2020)
 - Managing a full stack team of 8 developers remotely 
 - Working with the Product Owner to plan development work, ensure prioritisation of tech debt and set achievable goals for the team
 
 Achievements
-- Supervised my team's support for the migration of the French site. We were responsible for migration of user accounts upon login
-- Planned and managed an urgent project as part of a cross-team intiative to allow users to amend reservations, in response to new restrictions on some rail services
+- Supervised my team's support for the migration of the French site. We handled the migration of user accounts upon login
+- Planned and managed an urgent project as part of a cross-team initiative to allow users to amend reservations, in response to new restrictions on some rail services
 - Provided empathetic support to team members by actively listening and addressing their concerns and challenges
 
 #### Developer (Oct 2017 – Mar 2020)
@@ -67,14 +67,14 @@ Achievements
 * Feature development with React, Node and CSS
 
 Achievements
-* Implemented Sitespect and delivered the first A/B feature tests allowing the team to run and measure UI experiements
+* Implemented SiteSpect and delivered the first A/B feature tests allowing the team to run and measure UI experiments
 
 #### Agile QA Developer (Dec 2015 – May 2016)
 * Writing automated acceptance tests using Webdriverio, Node, Mocha & Chai and configuring them to run in BrowserStack and upon TeamCity deployments
 * Improving unit test code coverage for existing applications
 
 Achievements
-* I delivered an E2E testing framework with support from a senior developer
+* Delivered an E2E testing framework in collaboration with a senior developer
 
 ### Makers Academy (September 2015 - November 2015)
 
