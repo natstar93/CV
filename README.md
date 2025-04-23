@@ -101,17 +101,20 @@ BSc Chemistry
 
 ### Short Courses
 
-**C# Training Course** (February 2017)<br>
+**AWS Certified Cloud Practitioner** (April 2025)\
+Amazon Web Services, Inc.
+
+**C# Training Course** (February 2017)\
 Training Dragon
 
-**Introduction to SQL** (February 2015)<br>
+**Introduction to SQL** (February 2015)\
 Lumia Development
 
 ## Other Work Experience
 
-**Aimia** (June 2010 - May 2015)<br>
-*Senior eCommunications Executive*<br>
+**Aimia** (June 2010 - May 2015)\
+*Senior eCommunications Executive*\
 *eCommunications Executive*
 
-**Totaljobs Group** (November 2007 - June 2010)<br>
+**Totaljobs Group** (November 2007 - June 2010)\
 *Production Assistant*  
